@@ -20,7 +20,7 @@ data.
 PROJECT STRUCTURE
 
 data/
-Contains the training and test image datasets, organized by class.
+not included due to copyright concerns
 
 src/
 Source code for feature extraction, vocabulary construction, encoding, and
